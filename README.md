@@ -2,7 +2,7 @@
 
 ## 概要
 
-[@kokodeikku_bot](https://twitter.com/kokodeikku_bot/) がつぶやいたツイートの末尾を「友利奈緒」に変換してつぶやくbot []@tomori_nao_575](https://twitter.com/tomori_nao_575) のソースです。
+[@kokodeikku_bot](https://twitter.com/kokodeikku_bot/) がつぶやいたツイートの末尾を「友利奈緒」に変換してつぶやくbot [@tomori_nao_575](https://twitter.com/tomori_nao_575) のソースです。
 
 ## バージョン
 
